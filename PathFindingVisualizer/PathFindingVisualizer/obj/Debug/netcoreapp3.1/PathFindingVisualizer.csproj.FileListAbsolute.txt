@@ -28,3 +28,18 @@ C:\Users\Sean Campbell\Source\Repos\scampbell930\path-finding-visualizer\PathFin
 C:\Users\Sean Campbell\Source\Repos\scampbell930\path-finding-visualizer\PathFindingVisualizer\obj\Debug\netcoreapp3.1\PathFindingVisualizer.dll
 C:\Users\Sean Campbell\Source\Repos\scampbell930\path-finding-visualizer\PathFindingVisualizer\obj\Debug\netcoreapp3.1\PathFindingVisualizer.pdb
 C:\Users\Sean Campbell\Source\Repos\scampbell930\path-finding-visualizer\PathFindingVisualizer\obj\Debug\netcoreapp3.1\PathFindingVisualizer.genruntimeconfig.cache
+C:\Dev\PathFinder\PathFindingVisualizer\PathFindingVisualizer\bin\Debug\netcoreapp3.1\PathFindingVisualizer.exe
+C:\Dev\PathFinder\PathFindingVisualizer\PathFindingVisualizer\bin\Debug\netcoreapp3.1\PathFindingVisualizer.deps.json
+C:\Dev\PathFinder\PathFindingVisualizer\PathFindingVisualizer\bin\Debug\netcoreapp3.1\PathFindingVisualizer.runtimeconfig.json
+C:\Dev\PathFinder\PathFindingVisualizer\PathFindingVisualizer\bin\Debug\netcoreapp3.1\PathFindingVisualizer.runtimeconfig.dev.json
+C:\Dev\PathFinder\PathFindingVisualizer\PathFindingVisualizer\bin\Debug\netcoreapp3.1\PathFindingVisualizer.dll
+C:\Dev\PathFinder\PathFindingVisualizer\PathFindingVisualizer\bin\Debug\netcoreapp3.1\PathFindingVisualizer.pdb
+C:\Dev\PathFinder\PathFindingVisualizer\PathFindingVisualizer\obj\Debug\netcoreapp3.1\PathFindingVisualizer.csprojAssemblyReference.cache
+C:\Dev\PathFinder\PathFindingVisualizer\PathFindingVisualizer\obj\Debug\netcoreapp3.1\PathFindingVisualizer.Form1.resources
+C:\Dev\PathFinder\PathFindingVisualizer\PathFindingVisualizer\obj\Debug\netcoreapp3.1\PathFindingVisualizer.csproj.GenerateResource.cache
+C:\Dev\PathFinder\PathFindingVisualizer\PathFindingVisualizer\obj\Debug\netcoreapp3.1\PathFindingVisualizer.AssemblyInfoInputs.cache
+C:\Dev\PathFinder\PathFindingVisualizer\PathFindingVisualizer\obj\Debug\netcoreapp3.1\PathFindingVisualizer.AssemblyInfo.cs
+C:\Dev\PathFinder\PathFindingVisualizer\PathFindingVisualizer\obj\Debug\netcoreapp3.1\PathFindingVisualizer.csproj.CoreCompileInputs.cache
+C:\Dev\PathFinder\PathFindingVisualizer\PathFindingVisualizer\obj\Debug\netcoreapp3.1\PathFindingVisualizer.dll
+C:\Dev\PathFinder\PathFindingVisualizer\PathFindingVisualizer\obj\Debug\netcoreapp3.1\PathFindingVisualizer.pdb
+C:\Dev\PathFinder\PathFindingVisualizer\PathFindingVisualizer\obj\Debug\netcoreapp3.1\PathFindingVisualizer.genruntimeconfig.cache

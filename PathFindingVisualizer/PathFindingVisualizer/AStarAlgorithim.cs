@@ -39,7 +39,7 @@ namespace PathFindingVisualizer
                             break;
                         }
                     }
-                    Map[i, j] = new AStarNode(false, location);
+                    Map[i, j] = new AStarNode(true, location);
                 }
             }
 

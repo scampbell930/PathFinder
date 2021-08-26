@@ -104,7 +104,7 @@ namespace PathFindingVisualizer
             // Initialize wall list
             List<AStarNode> walls = new List<AStarNode>();
 
-            // Loop through form map to determine which locations have been initialized to the start and end node
+            // Loop through form map to determine which locations have been initialized to the start, end and wall nodes
             for (int row = 0; row < formMap.GetLength(0); row++)
             {
                 for (int col = 0; col < formMap.GetLength(1); col++)

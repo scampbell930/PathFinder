@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Visual Studio - workspace\\PathFindingVisualizer\\PathFindingVisualizer\\PathFindingVisualizer.csproj": {}
+    "C:\\Dev\\PathFinder\\PathFindingVisualizer\\PathFindingVisualizer\\PathFindingVisualizer.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Visual Studio - workspace\\PathFindingVisualizer\\PathFindingVisualizer\\PathFindingVisualizer.csproj": {
+    "C:\\Dev\\PathFinder\\PathFindingVisualizer\\PathFindingVisualizer\\PathFindingVisualizer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Visual Studio - workspace\\PathFindingVisualizer\\PathFindingVisualizer\\PathFindingVisualizer.csproj",
+        "projectUniqueName": "C:\\Dev\\PathFinder\\PathFindingVisualizer\\PathFindingVisualizer\\PathFindingVisualizer.csproj",
         "projectName": "PathFindingVisualizer",
-        "projectPath": "C:\\Dev\\Visual Studio - workspace\\PathFindingVisualizer\\PathFindingVisualizer\\PathFindingVisualizer.csproj",
+        "projectPath": "C:\\Dev\\PathFinder\\PathFindingVisualizer\\PathFindingVisualizer\\PathFindingVisualizer.csproj",
         "packagesPath": "C:\\Users\\seanc\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Visual Studio - workspace\\PathFindingVisualizer\\PathFindingVisualizer\\obj\\",
+        "outputPath": "C:\\Dev\\PathFinder\\PathFindingVisualizer\\PathFindingVisualizer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\seanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
